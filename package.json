@@ -3,6 +3,7 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "jsonwebtoken": "^8.5.1",
     "servor": "^4.0.2"
   }
 }
